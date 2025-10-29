@@ -1,0 +1,8 @@
+LLD :
+
+SOLID
+S: Single Responsibility Principle
+O: Open & Close Principle
+L: Liskov Substitution Principle
+I: Interface Segregation Principle
+D: Dependency Inversion Principle
