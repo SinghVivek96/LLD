@@ -6,5 +6,6 @@ public class Demo {
         invoice.calculateTotal();
         new SaveToDB().save(invoice);
         new SaveToES().save(invoice);
+        new InvoiceSaveService(invoice).saveInvoice(new SaveToDB());
     }
 }
