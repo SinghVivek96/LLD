@@ -1,7 +1,7 @@
 LLD :
 
 SOLID
-S: Single Response Principle
+S: Single Responsibility Principle
 O: Open & Close Principle
 L: Liskov Substitution Principle
 I: Interface Segregation Principle
